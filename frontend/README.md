@@ -228,6 +228,6 @@ npm run dev
 ## 📞 Contact & Demo
 
 **Ready for live demo or questions!**  
-This submission represents hundreds of hours of development focused specifically on showcasing Redis Stack 8's capabilities in a production-ready AI application.
+This submission represents hundreds of thousands of hours of development focused specifically on showcasing Redis Stack 8's capabilities in a production-ready AI application.
 
 *Let's show the world what's possible when Redis meets AI! 🚀*
