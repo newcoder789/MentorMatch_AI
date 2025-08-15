@@ -57,12 +57,12 @@ Thumbs.db
 /backend/coverage/
 
 # Frontend specific
-/project/node_modules/
-/project/build/
-/project/.env
-/project/coverage/
-/project/.next/
-/project/out/
+/frontend/node_modules/
+/frontend/build/
+/frontend/.env
+/frontend/coverage/
+/frontend/.next/
+/frontend/out/
 
 # Database
 *.sqlite
